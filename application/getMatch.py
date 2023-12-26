@@ -22,16 +22,3 @@ def getMatch(prompt):
     return output
 
 
-
-
-
-# doc1 = nlp(u'the person wear red T-shirt')
-# doc2 = nlp(u'this person is walking')
-# doc3 = nlp(u'the boy wear red T-shirt')
-
-
-# print(doc1.similarity(doc2)) 
-# print(doc1.similarity(doc3))
-# print(doc2.similarity(doc3))
-
-# print(getMatch("Whats up?"))
